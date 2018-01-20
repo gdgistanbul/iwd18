@@ -13,6 +13,8 @@
   },
   "dependencies": {
     "autotrack": "^2.4.1",
+    "firebase-admin": "^5.8.1",
+    "firebase-functions": "^0.8.1",
     "redux": "^3.7.2"
   },
   "devDependencies": {
