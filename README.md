@@ -2,6 +2,8 @@
 
 # Project Hoverboard 2
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gdgistanbul/iwd18.svg)](https://greenkeeper.io/)
+
 
 > Template is brought by [GDG Lviv team](http://lviv.gdg.org.ua/).
 
