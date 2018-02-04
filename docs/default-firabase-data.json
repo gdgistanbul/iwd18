@@ -1452,7 +1452,7 @@
     } ],
     "title" : "Program Committee"
   } ],
-  "tickets" : {
+  /*"tickets" : {
     "elements" : [ {
       "currency" : "₴",
       "ends" : "Sep 8",
@@ -1478,7 +1478,7 @@
       "starts" : "July 1"
     } ],
     "url" : "http://2event.com/events/630032"
-  },
+  }*/
   "videos" : [ {
     "speakers" : "Jakub Škvára",
     "thumbnail" : "/images/sessions/116.JPG",

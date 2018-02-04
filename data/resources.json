@@ -21,8 +21,8 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "WTM Istanbul",
+          "url": "http://www.wtmistanbul.com/",
           "newTab": true
         },
         {
@@ -38,28 +38,24 @@
       ]
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "Explore Past IWDs",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "name": "IWDIST 2015",
+          "url": "http://2015.wtmistanbul.com/",
           "newTab": true
         },
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
+          "name": "IWDIST 2016",
+          "url": "http://2016.wtmistanbul.com/",
           "newTab": true
         },
         {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
+          "name": "IWDIST 2017",
+          "url": "http://2017.wtmistanbul.com/",
           "newTab": true
         },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
-          "newTab": true
-        }
+   
       ]
     },
     {
@@ -67,10 +63,10 @@
       "links": [
         {
           "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "https://gdg.ist/wtm-tanitim",
           "newTab": true
         },
-        {
+        /*{
           "name": "Info Partnership Proposition",
           "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
           "newTab": true
@@ -89,7 +85,7 @@
           "name": "FAQs",
           "url": "/faq/",
           "newTab": false
-        }
+        }*/
       ]
     }
   ],
@@ -99,7 +95,7 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "Women Techmakers (WTM) daha fazla kadının bilim, teknoloji, mühendislik ve benzeri sektörlerde yer almasını teşvik etmek amacıyla etkinlikler düzenleyen ve Google tarafından desteklenen uluslararası bir topluluktur.",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
@@ -112,15 +108,15 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "700+"
       },
       "days": {
         "label": "Days",
-        "number": "2"
+        "number": "1"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "40"
       },
       "tracks": {
         "label": "Tracks",
