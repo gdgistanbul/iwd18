@@ -3,16 +3,16 @@
         "name": "WTM Istanbul",
         "twitter": "wtmistanbul",
         "blog": "https://wtmistanbul.com/",
-        "url": "http://gdg.ist/"
+        "url": "http://wtmistanbul.com/"
     },    
-    "startDate": "2018-10-013T09:00:00+03:00",
-    "endDate": "2018-10-14T19:00:00+03:00",
+    "startDate": "2018-03-31T09:00:00+03:00",
+    "endDate": "2018-03-31T19:00:00+03:00",
     "webapp": {
         "shortName": "WTM",
         "themeColor": "#673AB7",
         "backgroundColor": "#673AB7"
     },
-    "hashtag": "IWD17",
+    "hashtag": "#BuildingANewHorizon",
     "navigation": [
         {
             "route": "home",
@@ -29,7 +29,7 @@
         "home": {
             "description": "The Women Techmakers Global Event Series In Istanbul ",
             "background": {
-                "color": "#673ab7",
+                "color": "#4A87FF",
                 "image": "/images/backgrounds/home.jpg"
             },
             "fontColor": "#FFF"
