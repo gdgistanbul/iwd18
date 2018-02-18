@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Season 2017",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "title": "IWD 2018",
+  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by WTM community! All about Android, Web and Cloud from the world experts",
+  "keywords": "event, WTM, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "October 13-14, 2017",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
+  "partnershipProposition": "https://bit.ly/IWD17-partners",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -21,8 +21,8 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "WTM Istanbul",
+          "url": "http://Istanbul.WTM.org.ua/",
           "newTab": true
         },
         {
@@ -32,7 +32,7 @@
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "url": "https://devfest.WTM.org.ua/team/",
           "newTab": true
         }
       ]
@@ -41,23 +41,18 @@
       "title": "Explore Past DevFests",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "name": "IWD 2015",
+          "url": "http://2015.wtmistanbul.com/",
           "newTab": true
         },
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
+          "name": "IWD 2016",
+          "url": "http://2016.wtmistanbul.com/",
           "newTab": true
         },
         {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "name": "IWD 2017",
+          "url": "http://2015.wtmistanbul.com/",
           "newTab": true
         }
       ]
@@ -67,17 +62,17 @@
       "links": [
         {
           "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "https://devfest.WTM.org.ua/assets/WTM_DevFest_2016_partnership_proposition.pdf",
           "newTab": true
         },
         {
           "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "https://devfest.WTM.org.ua/assets/WTM_DevFest_2016_partnership_proposition.pdf",
           "newTab": true
         },
         {
           "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "https://devfest.WTM.org.ua/assets/WTM_DevFest_2016_partnership_proposition.pdf",
           "newTab": true
         },
         {
@@ -99,7 +94,7 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "WTM DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Istanbul for 2 days of sessions, workshops and showcases.",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
@@ -138,7 +133,7 @@
     "button": "Become a partner"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "IWD'16 featured videos",
     "callToAction": {
       "label": "See all videos",
       "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
@@ -167,7 +162,7 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
+    "title": "#IWD16 highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
@@ -186,7 +181,7 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about WTM DevFest Ukraine sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
@@ -194,7 +189,7 @@
     "generalError": "Some error has occured. Please, try again later."
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what WTM is about.<br><br> [Google Developers Group (WTM) Istanbul](http://Istanbul.WTM.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -226,15 +221,15 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='http://Istanbul.WTM.org.ua' target='_blank'>WTM Istanbul</a> with support of 10 WTMs from all around Ukraine is proud organizer of DevFest Ukraine",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "title": "What is WTM?",
+        "description": "Google Developers Group (WTM) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
         "callToAction": {
           "label": "Read more",
           "link": "https://developers.google.com/groups/",

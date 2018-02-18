@@ -12,7 +12,7 @@
         "themeColor": "#673AB7",
         "backgroundColor": "#673AB7"
     },
-    "hashtag": "WTM17",
+    "hashtag": "IWD17",
     "navigation": [
         {
             "route": "home",
@@ -27,7 +27,7 @@
     ],
     "heroSettings": {
         "home": {
-            "description": "The biggest Google tech conference in CEE. All about Android, Web, and Cloud.",
+            "description": "The Women Techmakers Global Event Series In Istanbul ",
             "background": {
                 "color": "#673ab7",
                 "image": "/images/backgrounds/home.jpg"
@@ -72,18 +72,18 @@
         }
     },
     "location": {
-        "short": "Istanbul, Turkey",
-        "address": "36 Shchyretska St, Lviv, Ukraine",
+        "short": "Kadirhas Üniversitesi",
+        "address": "Cibali Mahallesi, Kadir Has Cd., 34083 Fatih/İstanbul",
         "pointer": {
-            "latitude": 49.809841,
-            "longitude": 23.972805,
-            "zoom": 5
-        },
+            "latitude": 41.024585,
+            "longitude": 28.959307,
+            "zoom": 13
+        }, 
         "mapCenter": {
-            "latitude": 48,
-            "longitude": 8
+            "latitude": 41.024585,
+            "longitude": 28.959307
         },
-        "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+        "description": "Burası değişcek"
     },
     "mediaQueries": {
         "xs": {
@@ -105,19 +105,19 @@
         "follow": [
             {
                 "name": "facebook",
-                "url": "https://www.facebook.com/devfest.ukraine/"
+                "url": "https://www.facebook.com/wtmistanbul/"
             },
             {
                 "name": "twitter",
-                "url": "https://twitter.com/devfest_ukraine/"
+                "url": "https://twitter.com/wtmistanbul"
             },
             {
                 "name": "instagram",
-                "url": "https://www.instagram.com/devfestukraine"
+                "url": "https://www.instagram.com/gdgistanbul/"
             },
             {
                 "name": "youtube",
-                "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+                "url": "https://www.youtube.com/user/GDGIstanbul"
             }
         ],
         "share": [
@@ -136,10 +136,7 @@
         ]
     },
     "mailto": "wtm@gdgistanbul.com",
-    "mailchimp": {
-        "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-        "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
-    },
+    
     "signInProviders": {
         "providersData": [
             {
