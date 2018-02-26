@@ -16,8 +16,15 @@
       "timezone": "+03:00"
     },
     "messages": {
-      "65": { "body": "fsdfds", "click_action": "/schedule", "title": "dfdse" },
-      "54645": { "body": "fdjhs", "title": "djshdg" },
+      "65": {
+        "body": "fsdfds",
+        "click_action": "/schedule",
+        "title": "dfdse"
+      },
+      "54645": {
+        "body": "fdjhs",
+        "title": "djshdg"
+      },
       "68767": {
         "body": "fsdfds",
         "click_action": "/schedule",
@@ -30,9 +37,42 @@
       }
     },
     "subscribers": {
-      "c7O43zKBcPE:APA91bFWIIxWuFYmxOvmrq30CLHvJFD9F5czDenu28BtKaOgd97h8UMLfZqoyx1MxJV1edmRw4oAALrnO8MnCJ4o_R1htzF_XmQcV3FAM0A3LaujpUueYhpxU_7qDIJ3PTHVxpCiShl_": true
+      "c7O43zKBcPE:APA91bFWIIxWuFYmxOvmrq30CLHvJFD9F5czDenu28BtKaOgd97h8UMLfZqoyx1MxJV1edmRw4oAALrnO8MnCJ4o_R1htzF_XmQcV3FAM0A3LaujpUueYhpxU_7qDIJ3PTHVxpCiShl_": true,
+      "cULNUE_1Brc:APA91bEGSxafLr8nH688dKzZhXZhTXhq9SaK5BW3DKCVxLvWaCwxKFKIujf3zdXl579K-U0Fub9jZ1QCuqAD8kyRVCGzHgzhgPhyIuoLMCZi7f_dDGZ8AJvTTZ-RPwRkiiNA_00yOy42": true,
+      "cY7EXLLzWyQ:APA91bH1mr9LiC8MYL_1oqTe_MrlArCMNsMc8bjXOCimSNqmISVRl0HS-PzMOqqub_XtNRhJE6guMQaT3cpaizk6UYVCxey-DTCpQiZXdw1K2F7FKWyLhPO-anvqYjq0vVhdIjQfctPw": true,
+      "ccuWItmaD0s:APA91bFKK64CITiuR-cB4DH_xXy14qIwd2M-7Z2-RczomwT_WQ2Dji1f48lOKQ7TM6or6zmrLkmoK_d_2GWt_Ni8unB4Co_2B9qd4c-EHIDVYc6YTn-HSAGsWypV2Zci9g8vb7OfvzV7": true,
+      "cqdMzP-Jsvo:APA91bH1kg1etOriQi0fFLqTeRdhochgGxBvE_lwat9kYLBw1XwRRp_yz81WRQJSAzSGE2-nnIco2rIu7-fRmogl-vt1TjC9AemR81uxh9S3BE3ptwggltbqZF0us55xkBMk0-jQoJrL": true,
+      "cxa0pO9SiZk:APA91bH9ptV0r6r6ArwYUMjGEGN4_5_2kJQWyD3FN13TivPAs0DDLaIIpFRe61SzhUFTX4ghzfCcbBkMixjjwGmOVGOaSJqQF1NOPDt5jlR0ZCu2KxL4EY7FqbH3uP_55Zm_-DaoJSD-": true,
+      "d9yLnUZtCDA:APA91bFvv2GAKizEjH-sVIJ6r-Ewh94POf_GwJ-WBrSHnqPI3UfCpgV6mlFXh6w_E0r5KO0cbms-5Lb19Q1hwLNXR5DSddGMy3oqJ8M4nhovw0q6EsvbMi3Jj8kQzyio4BwFpFJeqJqr": true,
+      "dAkHW_hkgOM:APA91bFOQN0rs-386cB9MQL-IF3adqPYUBWSFPvj6_Whc1rxbQAEOJTwbGKMREQ0IcNcs3-CbC-j8PmFd1uQ0RLfoA16h2AW7mBJ2wFh09mt4UToM9axUk4ecJbU8zJ1f7-xvO3Y84T0": true,
+      "dB9y_eGcV3U:APA91bFyn2S5e-7houEo_H2mq5OLVxJaezw7gSKpno8rZYuLVqEhE1Q6E5Nu4tu6Q7CwcSIS0SiudtEvzmt3nR1tHbMBevprM9QNDWhNMkNIhjaDYSF04UwtOFmn74EbOLT0Dyk8kPKJ": true,
+      "dLO7jLRPDcs:APA91bGIByJ9VlbJpClCpw9Pe5TfKKj5ePtmhTvCDFwkOyF7ADcbXlX6sZn50lbfHkApS4eIRFnUyePAYNJwdZpvF5f1eRZV6fme0_gSEkZYQyOtx4_-0wJXgatv3BkQyzWBmfHkfHld": true,
+      "dge1c9j4Ecs:APA91bFFEEO_3pevKB35wqF6zKCzSPC48tceIH73eXtH0wmnGRJX3KWBdBmK5DR6TWFzp0m9MYDJbSCDCilvJelQRBPEg5dAT_9PzBI_JlgbQf9XJRp7FwtDEIKmeFgdqyVtayaPth2A": true,
+      "dlSBsWlW2BE:APA91bFYYxJAUt83ekySB3Xl4ykXHg2lo2Zt4GB82rOBt3n3-FTSBF-grrBH28W60M0UBQhnEKkY8fKmVq2T8dLLhnhvKXEfDkGQ-1d8fL1qjNGoGWwC3jJ2mAm0Q_ffgPV8LhLd9zsQ": true,
+      "dmHm1RW-eNc:APA91bGe6CFZ8Zw6gCMQKPvN-K5fY9_iqOpbPPKnbpuZqDUZWZYnls0NqiFsGW3j89QO0gFltf-5EguLl_xw5AutJzhPMfiOXMewt-rGe23SkeHu1jjP41b_vfjz0YteMuhl-1Vlobzw": true,
+      "dng7A1T9Yoo:APA91bFNJKg0KIZwPtAE6yA3hxJiaQAF7NgC967TmKducUPAj7mGZ0GFX1ZzK_t7ZDFEQh4XXgFA4tyqkSGLAlPg2vpZysKJ1YE3eX6p0izMiE4eaKR1ekCcdsTOCtaLzWSCYfAoQNP6": true,
+      "dwf6JWWa38U:APA91bEEp4sSIwdnzwL77FBhfMHnSOUJGgUcMkgh-vRJ_0ZPVkcWAMHTw_Z1n05vlv2MTg2C1vUEb4SHBenNMT48uiQiP4MXW4zWTFuF3YhVIwNLOenEfECPriuNkH3eHny9QNKSPF2z": true,
+      "dzVs6NT3HV8:APA91bFGgtWBBx3gfy8N2LWvP3jIfJ-nbsIYi0L89fBMafpOXDK-7DYCFOvXrdRR0Pxvhllaj1kyKDxau0KcdKSMPXCNRuNl4KvkLgVqLn30HcmCcGb3lXgnSrcfkiZaFtNyohcJXUbb": true,
+      "e4HlGgVriUE:APA91bH41jFj54LbwR6cLKoV7kRjXBm-qyhTshigNcVhdi6FKmdiBdTDo5yG6c7vvXWtdwlP2E0lZLvgF0GFBPMdjquIfQHBFAm9uqVkoEdrXBYOd17MVCvtSZi6EEBqUNmpgUt4PGm-": true,
+      "eRAO1Wxm7Fw:APA91bGWQ0Dc0aEfhADQw1Jk4Qg2Mh1J6xotrtWi8gs8T6ftOlOEzsL3GFsNpJqNidL-89zi03igTBEHmVdgNuLGwj5Z77Lk3Pzr04mni6b8uPipCzOj1IMtOW7u7kgtS8pxwmcND8vV": true,
+      "eUzmkz9U6To:APA91bEPdF8GcviKDM7m9yfRPjebh1ZnNTcGf-h0kxMouaSaF9R_vX6mLbKUeOyJYJ8q2ZZNl98rW5hsZLAFDEHitUV2pJ7xYNNfntAILI0XKZmbGdNnspONY0X82vBmBYVq47NbS9dw": true,
+      "eZ79R1BbjB4:APA91bGM2x34uhucRVVv6aysDaWqUfSPo2gi1zUb4rOnDCe-k2TauZtT2o50C7ICg8aTgeXnyu4f2Ua6XpHvnibqa3Fz8p8-SPm4-Rg42qPdHe4nJV3r_isrTeQ3iCG2ftIDNmE6iaqT": true,
+      "ebqU7ZfXQc8:APA91bGccpgZOKnyp34bNkyN0KN1ZJiSzM3mmew51PHiHTdgUwp2N6HpEgEMZh9bbSVDTu9H2E3UB6t931TsEjrsyE2Qi0cSuhegs9PLQr6TiSfpAIKyjRUl5e7QVF-LnsTSViQc7art": true,
+      "egxScxbf0lY:APA91bGCwk64Lo8WXJXZdUxU8c24tI7TjmSwMIAZmBjtHbSWNybrF6WDPKjb5Td8hMROABuT99ly0NDq-5BAEo_1cCwDA7X2OopDdgzrypnQKV8QwOT_9pBWcOMEC7ohu1tQwSvS5nkF": true,
+      "esxZ908hWuA:APA91bF151341qDvPeKBka1LF9dq1A_WilQ6QwHddt0jX0AFmImm_bwrC4NOAahKSYepkiEIuyo-BTYeYRQaaYZbPIz-n7VUvKg73ZPgZPnryS6TEbBeqvGgkdSJYj3Po0DCiLq9amfb": true,
+      "ex4gfCxdG3U:APA91bEsu6LHvsHQcOVyD3ISjFpGZ0iW2P_0MVKbcqdpEY4905UxSXSDmWNHVW17LCNhwEZGR87znS72eNHOWEOvrJF9XfpryeUruU_fpsXizPFyUUX0QDsQl8PqOdrwvsMX3BF_myRu": true,
+      "exK2g-LZhQs:APA91bFrtPDmTVyWKRRMxS262MiHR52-ndH1bohtUlLAHd8ZiFXjp7EnrNKH2jyVb2r9whm2xAvCSdi2klBgFOX5TwxFbJN_lka4ZTPVzZzlq03bgms4RkibAvwNVAbXmyuWjS6dVF9Z": true,
+      "ezAIgN_Mw4o:APA91bE9luSrwb37I18fuuCuRjAeilsIRZ_WG_M1ZDzIQ2Rw4MR5owPf9hSVHcg_9amGEqDhFSf37JDx-g5K0fuYVkNhwIJIb_9OGY76Z9meRAbsERjBwzoo1ypAO7qXfBmHiKrPIFTY": true,
+      "fNShGHarZMg:APA91bH4WE_pagaqfFf45ka180iEG9kQjx5ezq6bHaVY68-RX6RFywBnJ9WwBYPl51bkAG1hxJX1Psa6OmcaM4u2qTTnJmBcp3P5ZhOb81hpEynwyjVjtKHYwnIZEJn2omLJGrZioISD": true,
+      "faaKPRstcFo:APA91bHSzXcqf5NZf4CxtkQWXQSlcHMkTGnvcuvI6kSXwgBS-DJAIkNNP4CGssHIpNfULDZVRgD46wypfl-REeqwVUamaLEltCMBkjVl2IRcU-Ueu5MzEZx2Uxs9Y78dH3UX8QQYZsBl": true,
+      "fd0vd2yZZBs:APA91bGv36bYtfsPk6Quge1LIoXGR_Zn1qTSErFTsVuqsAFDVoL9Rd8xr2CB3J2qVfZ-i23lhCMmFVXEVuj_rs3nlZIWWO9Q_BdzVlgv4h-DNzOmjPbbt7dPkjnCl1hglo-QGrAAAx34": true,
+      "fkXzZfUedD8:APA91bFTcH6dQJ6ZxBmFQ5qGB6EaWwXAMQNKqIZK5dlLeF5NrHH7xWPwcJvEZ7RTL3iV-lxc_IZxV8QZIwdr4S0kmuuCmEVtOgMNPhaEQJKZNwpHajeVAlKP7LgjCR9fN7ZZTV2ZQZk-": true
     },
-    "test": { "123": "sdsa", "234": "авіпіа", "4343": "віаів" },
+    "test": {
+      "123": "sdsa",
+      "234": "авіпіа",
+      "4343": "віаів"
+    },
     "users": {
       "1bdhDG19kfR8xQEyZiIGLooSBXv1": {
         "cULNUE_1Brc:APA91bEGSxafLr8nH688dKzZhXZhTXhq9SaK5BW3DKCVxLvWaCwxKFKIujf3zdXl579K-U0Fub9jZ1QCuqAD8kyRVCGzHgzhgPhyIuoLMCZi7f_dDGZ8AJvTTZ-RPwRkiiNA_00yOy42": true
@@ -66,22 +106,42 @@
     {
       "logos": [
         {
-          "logoUrl": "../images/logos/gdg-lviv.svg",
-          "name": "GDG Lviv",
-          "url": "https://plus.google.com/102444623953913144164"
-        }
-      ],
-      "title": "Template Creator"
-    },
-    {
-      "logos": [
-        {
           "logoUrl": "../images/logos/google.svg",
           "name": "Google",
           "url": "https://www.google.com.ua/intl/en/about/"
         }
       ],
       "title": "General Partner"
+    },
+    {
+      "logos": [
+        {
+          "logoUrl": "../images/partners/nc3u1.png",
+          "name": "Nescafe",
+          "url": "https://www.nescafe.com.tr/"
+        }
+      ],
+      "title": "Coffee Sponsor"
+    },
+    {
+      "logos": [
+        {
+          "logoUrl": "../images/partners/robotistan.png",
+          "name": "Robotistan",
+          "url": "https://www.robotistan.com/"
+        }
+      ],
+      "title": "Gift Sponsors:"
+    },
+    {
+      "logos": [
+        {
+          "logoUrl": "../images/logos/gdg-lviv.svg",
+          "name": "GDG Lviv",
+          "url": "https://plus.google.com/102444623953913144164"
+        }
+      ],
+      "title": "Template Creator"
     }
   ],
   "schedule": {
@@ -90,94 +150,172 @@
       "timeslots": [
         {
           "endTime": "10:00",
-          "sessions": [{ "items": [132] }],
+          "sessions": [
+            {
+              "items": [132]
+            }
+          ],
           "startTime": "09:00"
         },
         {
           "endTime": "10:15",
-          "sessions": [{ "items": [136] }],
+          "sessions": [
+            {
+              "items": [136]
+            }
+          ],
           "startTime": "10:00"
         },
         {
           "endTime": "11:00",
-          "sessions": [{ "items": [139] }],
+          "sessions": [
+            {
+              "items": [139]
+            }
+          ],
           "startTime": "10:15"
         },
         {
           "endTime": "11:40",
           "sessions": [
-            { "items": [103, 112] },
-            { "items": [120] },
-            { "extend": 3, "items": [109] }
+            {
+              "items": [103, 112]
+            },
+            {
+              "items": [120]
+            },
+            {
+              "extend": 3,
+              "items": [109]
+            }
           ],
           "startTime": "11:00"
         },
         {
           "endTime": "12:30",
-          "sessions": [{ "items": [129] }, { "items": [116] }],
+          "sessions": [
+            {
+              "items": [129]
+            },
+            {
+              "items": [116]
+            }
+          ],
           "startTime": "11:50"
         },
         {
           "endTime": "14:00",
-          "sessions": [{ "items": [133] }],
+          "sessions": [
+            {
+              "items": [133]
+            }
+          ],
           "startTime": "12:30"
         },
         {
           "endTime": "14:40",
           "sessions": [
-            { "items": [101] },
-            { "items": [118] },
-            { "extend": 2, "items": [107] }
+            {
+              "items": [101]
+            },
+            {
+              "items": [118]
+            },
+            {
+              "extend": 2,
+              "items": [107]
+            }
           ],
           "startTime": "14:00"
         },
         {
           "endTime": "15:30",
-          "sessions": [{ "items": [140] }, { "items": [126] }],
+          "sessions": [
+            {
+              "items": [140]
+            },
+            {
+              "items": [126]
+            }
+          ],
           "startTime": "14:50"
         },
         {
           "endTime": "16:00",
-          "sessions": [{ "items": [134] }],
+          "sessions": [
+            {
+              "items": [134]
+            }
+          ],
           "startTime": "15:30"
         },
         {
           "endTime": "16:40",
           "sessions": [
-            { "items": [105] },
-            { "items": [127] },
-            { "extend": 3, "items": [119] }
+            {
+              "items": [105]
+            },
+            {
+              "items": [127]
+            },
+            {
+              "extend": 3,
+              "items": [119]
+            }
           ],
           "startTime": "16:00"
         },
         {
           "endTime": "17:30",
-          "sessions": [{ "items": [112] }, { "items": [111] }],
+          "sessions": [
+            {
+              "items": [112]
+            },
+            {
+              "items": [111]
+            }
+          ],
           "startTime": "16:50"
         },
         {
           "endTime": "18:20",
-          "sessions": [{ "items": [106] }, { "items": [125] }],
+          "sessions": [
+            {
+              "items": [106]
+            },
+            {
+              "items": [125]
+            }
+          ],
           "startTime": "17:40"
         },
         {
           "endTime": "22:30",
-          "sessions": [{ "items": [137] }],
+          "sessions": [
+            {
+              "items": [137]
+            }
+          ],
           "startTime": "18:30"
         }
       ],
       "tracks": [
-        { "title": "Expo hall" },
-        { "title": "Conference hall" },
-        { "title": "Workshops hall" }
+        {
+          "title": "Expo hall"
+        },
+        {
+          "title": "Conference hall"
+        },
+        {
+          "title": "Workshops hall"
+        }
       ]
     }
   },
   "sessions": {
     "101": {
       "complexity": "Beginner",
-      "description":
-        "Demo ",
+      "description": "Demo ",
       "language": "Turkish",
       "presentation":
         "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
@@ -188,8 +326,7 @@
   },
   "speakers": {
     "demo": {
-      "bio":
-        "GDG Istanbul",
+      "bio": "GDG Istanbul",
       "company": "GDGIstanbul",
       "companyLogo": "/images/logos/wtm-logo.svg",
       "companyLogoUrl":
@@ -200,8 +337,7 @@
       "photo": "/images/logo-monochrome.svg",
       "photoUrl":
         "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logo-monochrome.svg",
-      "shortBio":
-        "Demo",
+      "shortBio": "Demo",
       "socials": [
         {
           "icon": "gplus",
@@ -212,7 +348,11 @@
       "title": "WTM Istanbul"
     }
   },
-  "subscribers": { "email": ",,,", "firstName": "", "lastName": "" },
+  "subscribers": {
+    "email": ",,,",
+    "firstName": "",
+    "lastName": ""
+  },
   "team": [
     {
       "members": [
@@ -322,6 +462,16 @@
               "icon": "facebook",
               "link": "https://www.facebook.com/ostap.andrusiv",
               "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/p1f",
+              "name": "Twitter"
+            },
+            {
+              "icon": "website",
+              "link": "http://andrusiv.com/",
+              "name": "Blog"
             }
           ],
           "title": "Sponsors"
@@ -440,15 +590,15 @@
   ],
   "tickets": {
     "elements": [
-        {
-            "currency" : "TRY",
-            "ends" : "Mar 30",
-            "info" : "Meetup rsvp",
-            "name" : "Ticket",
-            "price" : 0,
-            "soldOut" : false,
-            "starts" : "Feb 1"
-        }
+      {
+        "currency": "TRY",
+        "ends": "Mar 30",
+        "info": "Meetup rsvp",
+        "name": "Ticket",
+        "price": 0,
+        "soldOut": false,
+        "starts": "Feb 1"
+      }
     ],
     "url": "https://www.meetup.com/GDGIstanbul/events/247623063/"
   },
@@ -487,18 +637,22 @@
   "videos": [
     {
       "speakers": "Barış Yesugey",
-      "thumbnail": "https://i.ytimg.com/vi/pv64cIahbSE/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDPjmANeb-oqBe1Ekp-TGprD8K9Aw",
+      "thumbnail":
+        "https://i.ytimg.com/vi/pv64cIahbSE/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDPjmANeb-oqBe1Ekp-TGprD8K9Aw",
       "title": "Keynote",
       "youtubeId": "pv64cIahbSE"
-    },{
+    },
+    {
       "speakers": "Sarah Gordon",
-      "thumbnail": "https://i.ytimg.com/vi/2MVnS2r6TnU/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA1DiYLINGxVHoBCqe_F3_QGqAh6A",
+      "thumbnail":
+        "https://i.ytimg.com/vi/2MVnS2r6TnU/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA1DiYLINGxVHoBCqe_F3_QGqAh6A",
       "title": "My 20 Year Career in Tech",
       "youtubeId": "2MVnS2r6TnU"
     },
     {
       "speakers": "Panel",
-      "thumbnail": "https://i.ytimg.com/vi/esepToZlN8A/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD2aUiGRjPBXrt0OjAXWeIOgCxo-Q",
+      "thumbnail":
+        "https://i.ytimg.com/vi/esepToZlN8A/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD2aUiGRjPBXrt0OjAXWeIOgCxo-Q",
       "title": "Teknoloji Girişimciliği ve Liderlik Paneli",
       "youtubeId": "esepToZlN8A"
     }
