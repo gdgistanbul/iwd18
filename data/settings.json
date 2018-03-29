@@ -4,7 +4,7 @@
         "twitter": "wtmistanbul",
         "blog": "https://wtmistanbul.com/",
         "url": "http://wtmistanbul.com/"
-    },    
+    },
     "startDate": "2018-03-31T09:00:00+03:00",
     "endDate": "2018-03-31T19:00:00+03:00",
     "webapp": {
@@ -18,6 +18,21 @@
             "route": "home",
             "permalink": "/",
             "title": "Home"
+        },
+        {
+          "route":"team",
+          "permalink":"/team",
+          "title":"Team"
+        },
+        {
+          "route":"schedule",
+          "permalink":"/schedule",
+          "title":"Schedule"
+        },
+        {
+          "route":"",
+          "permalink":"https://www.meetup.com/GDGIstanbul/events/247623063/",
+          "title":"IWD 18 Meetup"
         }
     ],
     "heroSettings": {
@@ -73,7 +88,7 @@
             "latitude": 41.024585,
             "longitude": 28.959307,
             "zoom": 13
-        }, 
+        },
         "mapCenter": {
             "latitude": 41.024585,
             "longitude": 28.959307
@@ -131,7 +146,7 @@
         ]
     },
     "mailto": "wtm@gdgistanbul.com",
-    
+
     "signInProviders": {
         "providersData": [
             {
