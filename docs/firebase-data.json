@@ -357,186 +357,175 @@
     {
       "members": [
         {
-          "name": "Oleh Zasadnyy",
-          "photo": "/images/people/oleh_zasadnyy.jpg",
+          "name": "Elif Boncuk",
+          "photo": "",
           "photoUrl":
-            "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/oleh_zasadnyy.jpg",
+            "https://drive.google.com/file/d/1up7UH_orLrzGD6aUy1tPdmkHIFkC7w-O/view?usp=drivesdk",
           "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://plus.google.com/+OlehZasadnyy",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/oleh.zasadnyy",
-              "name": "Facebook"
-            },
             {
               "icon": "twitter",
-              "link": "https://twitter.com/ozasadnyy",
+              "link": "https://twitter.com/elifbon_",
               "name": "Twitter"
             },
-            {
-              "icon": "website",
-              "link": "http://o.zasadnyy.com/",
-              "name": "Blog"
-            }
-          ],
-          "title": "Website and sponsors"
-        },
-        {
-          "name": "Sofiya Huts",
-          "photo": "/images/people/sofiya_huts.jpg",
-          "photoUrl":
-            "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fsofiya_huts.jpg?alt=media&token=a911eafb-f709-4af7-b1cb-58a6604b70d1",
-          "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://plus.google.com/+SofiaHuts",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/sophie.huts.7",
-              "name": "Facebook"
-            }
-          ],
-          "title": "Social and media"
-        },
-        {
-          "name": "Vitaliy Zasadnyy",
-          "photo": "/images/people/vitaliy_zasadnyy.jpg",
-          "photoUrl":
-            "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvitaliy_zasadnyy.jpg?alt=media&token=930e05c8-ae43-4628-8d4c-3e8f5193cda3",
-          "socials": [
             {
               "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/zasadnyy",
+              "link": "https://www.linkedin.com/in/elif-boncuk-855a8728/",
               "name": "Linkedin"
-            },
+            }
+          ],
+          "title": "Social media and Sponsors"
+        },
+        {
+          "name": "Burcu Yalçınkaya",
+          "photo": "",
+          "photoUrl":
+            "https://drive.google.com/open?id=1hPG9cb6shUuhwHfq_9KQAmrN6u4XxWUa",
+          "socials": [
             {
               "icon": "twitter",
-              "link": "https://twitter.com/zasadnyy",
+              "link": "https://twitter.com/burcuco_",
               "name": "Twitter"
             },
             {
-              "icon": "website",
-              "link": "http://v.zasadnyy.com/",
-              "name": "Blog"
+              "icon": "linkedin",
+              "link": "www.linkedin.com/in/burcuco/",
+              "name": "Linkedin"
             }
           ],
-          "title": "Speakers"
+          "title": "Social media and Sponsors"
         },
         {
-          "name": "Marta Maxymiak",
-          "photo": "/images/people/marta_maxymiak.jpg",
+          "name": "Ali Şahin Aydoğan",
+          "photo": "",
           "photoUrl":
-            "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fmarta_maxymiak.jpg?alt=media&token=6532f039-7f86-4304-8558-dbfbb3ae8d68",
+            "https://drive.google.com/open?id=182lk6KJMXSh_jFa2L66ypIY3Mx1XAsa6",
           "socials": [
             {
-              "icon": "gplus",
-              "link": "https://plus.google.com/104036874811391520583",
-              "name": "Google+"
+              "icon": "twitter",
+              "link": "https://twitter.com/aydoganalisahin",
+              "name": "Twitter"
             },
             {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/marta.maxymiak",
-              "name": "Facebook"
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/alisahinaydogan/",
+              "name": "Linkedin"
+            }
+          ],
+          "title": "Design"
+        },
+        {
+          "name": "Erol Kaftanoğlu",
+          "photo": "",
+          "photoUrl":
+            "http://erolkaftanoglu.com/images/profile.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/erolkaftanoglu",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/erolkaftanoglu/",
+              "name": "Linkedin"
+            }
+          ],
+          "title": "Website"
+        },
+        {
+          "name": "Çağla Çetin",
+          "photo": "",
+          "photoUrl":
+            "https://drive.google.com/drive/u/1/folders/1zFqP0_UIeLSbJxuB8NlhmZX375nB3KJx",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/caglactn_",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/caglacetin/",
+              "name": "Linkedin"
+            }
+          ],
+          "title": "Conference place and website"
+        },
+        {
+          "name": "Okan Aydın",
+          "photo": "",
+          "photoUrl":
+            "https://drive.google.com/file/d/1R6-ZF7qrTd5hSZ-BXQmLaG0BvthBnh--/view?usp=sharing",
+          "socials": [
+             {
+              "icon": "twitter",
+              "link": "https://twitter.com/okanaydin34",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/okan-aydin-892400b7/",
+              "name": "Linkedin"
             }
           ],
           "title": "Party and happiness"
         },
         {
-          "name": "Ostap Andrusiv",
-          "photo": "/images/people/ostap_andrusiv.jpg",
+          "name": "Burcu Geneci",
+          "photo": "",
           "photoUrl":
-            "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/ostap_andrusiv.jpg",
+            "https://drive.google.com/open?id=1Z6JdLd_C3IrSdZSOAKgukczq8P42UPSc",
           "socials": [
             {
-              "icon": "gplus",
-              "link": "https://google.com/+OstapAndrusiv",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/ostap.andrusiv",
-              "name": "Facebook"
-            },
-            {
               "icon": "twitter",
-              "link": "https://twitter.com/p1f",
+              "link": "https://twitter.com/burcugen6",
               "name": "Twitter"
             },
             {
-              "icon": "website",
-              "link": "http://andrusiv.com/",
-              "name": "Blog"
+              "icon": "linkedin",
+              "link": "https://tr.linkedin.com/in/burcugeneci",
+              "name": "Linkedin"
             }
           ],
-          "title": "Sponsors"
+          "title": "Website"
         },
         {
-          "name": "Vasylyna Mytsak",
-          "photo": "/images/people/vasylyna_mytsak.jpg",
+          "name": "Burak Keleş",
+          "photo": "",
           "photoUrl":
-            "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/vasylyna_mytsak.jpg",
+            "http://bit.ly/2CsDbw1",
           "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://plus.google.com/+ВасилинаМицак",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/vasylyna.mytsak",
-              "name": "Facebook"
-            }
-          ],
-          "title": "Party and happiness"
-        },
-        {
-          "name": "Volodya Karpliuk",
-          "photo": "/images/people/volodya_karpliuk.jpg",
-          "photoUrl":
-            "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvolodya_karpliuk.jpg?alt=media&token=aa08d9c9-c42a-435f-8672-c3a004e3aa08",
-          "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://plus.google.com/+VolodyaKarpliuk23",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/volodya.karpluk",
-              "name": "Facebook"
-            },
             {
               "icon": "twitter",
-              "link": "https://twitter.com/keyv23",
+              "link": "https://twitter.com/burakeless",
               "name": "Twitter"
-            }
-          ],
-          "title": "Speakers"
-        },
-        {
-          "name": "Diana Pinchuk",
-          "photo": "/images/people/diana_pinchuk.jpg",
-          "photoUrl":
-            "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fdiana_pinchuk.jpg?alt=media&token=189d67d1-004f-4a3c-9e0c-13bc992bbaf7",
-          "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://plus.google.com/+DianaPinchuk",
-              "name": "Google+"
             },
             {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/diana.pinchuk.9",
-              "name": "Facebook"
+              "icon": "linkedin",
+              "link": "www.linkedin.com/in/kelesburak/",
+              "name": "Linkedin"
             }
           ],
-          "title": "Social and media"
+          "title": "Design"
+        },
+        {
+          "name": "Hüseyin Karagöz",
+          "photo": "",
+          "photoUrl":
+            "https://drive.google.com/file/d/1qZTOrWtnbcxFs_TktQ1FvUiqBodG8W0-/view?usp=sharing",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/huseyinnkaragoz",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/huseyinkaragoz/",
+              "name": "Linkedin"
+            }
+          ],
+          "title": "Design"
         }
       ],
       "title": "Core Team"
